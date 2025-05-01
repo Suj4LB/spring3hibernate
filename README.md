@@ -4,7 +4,7 @@ The main goal of this awesome Java Webapp is to encourage people to dive deep in
 
 ## Dependencies
 
-The list of dependencies are not quite long but yes we do have some dependencies.
+The list of dependencies are not quite long but we do have some dependencies.
 
 - [X] **Maven 3.X**
 - [X] **Java8 or Java11**
